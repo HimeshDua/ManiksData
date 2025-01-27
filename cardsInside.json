@@ -21,6 +21,6 @@
   
   { "productImage": "https://raw.githubusercontent.com/HimeshPremji/ManiksData/refs/heads/main/graphics/bigE1.webp", "forSearch": "ACCESSORIES", "id": 10, "productName": "Rose Petal", "price": "69.99", "rating": "4.7", "category": "jewelry", "gender": "MEN" },
   { "productImage": "https://raw.githubusercontent.com/HimeshPremji/ManiksData/refs/heads/main/graphics/bigE2.webp", "forSearch": "ACCESSORIES", "id": 11, "productName": "Diamond Touch", "price": "129.99", "rating": "5.0", "category": "luxury", "gender": "MEN" },
-  { "productImage": "https://raw.githubusercontent.com/HimeshPremji/ManiksData/refs/heads/main/graphics/e5.webp", "forSearch": "ACCESSORIES", "id": 18, "productName": "Silk Scarf", "price": "29.99", "rating": "4.8", "category": "fashion", "gender": "WOMEN" },
+  { "productImage": "https://raw.githubusercontent.com/HimeshPremji/ManiksData/refs/heads/main/graphics/e5.jpg", "forSearch": "ACCESSORIES", "id": 18, "productName": "Silk Scarf", "price": "29.99", "rating": "4.8", "category": "fashion", "gender": "WOMEN" },
   { "productImage": "https://raw.githubusercontent.com/HimeshPremji/ManiksData/refs/heads/main/graphics/e7.webp", "forSearch": "ACCESSORIES", "id": 19, "productName": "Gold Belt", "price": "49.99", "rating": "4.6", "category": "fashion", "gender": "MEN" }
 ]
