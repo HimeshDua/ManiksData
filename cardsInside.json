@@ -1,0 +1,26 @@
+[
+  { "forSearch": "WOMEN", "id": 1, "productName": "Sophia Earrings", "price": "49.99", "productImage": "graphics.e2", "rating": "4.8", "category": "jewelry", "gender": "WOMEN" },
+  { "forSearch": "WOMEN", "id": 2, "productName": "Amber Hoops", "price": "39.99", "productImage": "graphics.e1", "rating": "4.7", "category": "jewelry", "gender": "WOMEN" },
+  { "forSearch": "WOMEN", "id": 6, "productName": "Pearl Elegance", "price": "99.99", "productImage": "graphics.e6", "rating": "5.0", "category": "jewelry", "gender": "WOMEN" },
+  { "forSearch": "WOMEN", "id": 13, "productName": "Crystal Elegance", "price": "59.99", "productImage": "graphics.e3", "rating": "4.9", "category": "accessories", "gender": "WOMEN" },
+  
+  { "forSearch": "MEN", "id": 3, "productName": "Crystal Drops", "price": "59.99", "productImage": "graphics.e3", "rating": "4.9", "category": "accessories", "gender": "WOMEN" },
+  { "forSearch": "MEN", "id": 5, "productName": "Opal Charms", "price": "74.99", "productImage": "graphics.e5", "rating": "4.9", "category": "jewelry", "gender": "MEN" },
+  { "forSearch": "MEN", "id": 10, "productName": "Rose Petal", "price": "69.99", "productImage": "graphics.bigE1", "rating": "4.7", "category": "jewelry", "gender": "MEN" },
+  { "forSearch": "MEN", "id": 11, "productName": "Diamond Touch", "price": "129.99", "productImage": "graphics.bigE2", "rating": "5.0", "category": "luxury", "gender": "MEN" },
+  
+  { "forSearch": "SHOES", "id": 7, "productName": "Golden Loops", "price": "55.49", "productImage": "graphics.e7", "rating": "4.5", "category": "jewelry", "gender": "WOMEN" },
+  { "forSearch": "SHOES", "id": 8, "productName": "Ruby Dangles", "price": "89.99", "productImage": "graphics.e8", "rating": "4.8", "category": "jewelry", "gender": "WOMEN" },
+  { "forSearch": "SHOES", "id": 14, "productName": "Platinum Runners", "price": "119.99", "productImage": "graphics.e9", "rating": "4.7", "category": "footwear", "gender": "MEN" },
+  { "forSearch": "SHOES", "id": 15, "productName": "Classic Sneakers", "price": "79.99", "productImage": "graphics.e1", "rating": "4.6", "category": "footwear", "gender": "MEN" },
+  
+  { "forSearch": "BAGS", "id": 9, "productName": "Silver Shine", "price": "44.99", "productImage": "graphics.e9", "rating": "4.6", "category": "accessories", "gender": "WOMEN" },
+  { "forSearch": "BAGS", "id": 12, "productName": "Diamond Touch", "price": "149.99", "productImage": "graphics.bigE2", "rating": "5.0", "category": "luxury", "gender": "MEN" },
+  { "forSearch": "BAGS", "id": 16, "productName": "Leather Handbag", "price": "89.99", "productImage": "graphics.e3", "rating": "4.5", "category": "luxury", "gender": "WOMEN" },
+  { "forSearch": "BAGS", "id": 17, "productName": "Canvas Backpack", "price": "69.99", "productImage": "graphics.e4", "rating": "4.3", "category": "casual", "gender": "MEN" },
+  
+  { "forSearch": "ACCESSORIES", "id": 10, "productName": "Rose Petal", "price": "69.99", "productImage": "graphics.bigE1", "rating": "4.7", "category": "jewelry", "gender": "MEN" },
+  { "forSearch": "ACCESSORIES", "id": 11, "productName": "Diamond Touch", "price": "129.99", "productImage": "graphics.bigE2", "rating": "5.0", "category": "luxury", "gender": "MEN" },
+  { "forSearch": "ACCESSORIES", "id": 18, "productName": "Silk Scarf", "price": "29.99", "productImage": "graphics.e5", "rating": "4.8", "category": "fashion", "gender": "WOMEN" },
+  { "forSearch": "ACCESSORIES", "id": 19, "productName": "Gold Belt", "price": "49.99", "productImage": "graphics.e7", "rating": "4.6", "category": "fashion", "gender": "MEN" }
+]
