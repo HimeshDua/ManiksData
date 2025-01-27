@@ -1,17 +1,15 @@
-import banner from "../graphics/banner.webp";
-import bigE1 from "../graphics/bigE1.webp";
-import bigE2 from "../graphics/bigE2.webp";
-import e1 from "../graphics/e1.webp";
-import e2 from "../graphics/e2.webp";
-import e3 from "../graphics/e3.webp";
-import e4 from "../graphics/e4.jpg";
-import e5 from "../graphics/e5.jpg";
-import e6 from "../graphics/e6.webp";
-import e7 from "../graphics/e7.webp";
-import e8 from "../graphics/e8.jpg";
-import e9 from "../graphics/e9.webp";
-import icon from "../graphics/icon.png";
-import webDevIcon from "../graphics/web-development-icon.svg";
+import banner from "./banner.webp";
+import bigE1 from "./bigE1.webp";
+import bigE2 from "./bigE2.webp";
+import e1 from "./e1.webp";
+import e2 from "./e2.webp";
+import e3 from "./e3.webp";
+import e4 from "./e4.jpg";
+import e5 from "./e5.jpg";
+import e6 from "./e6.webp";
+import e7 from "./e7.webp";
+import e8 from "./e8.jpg";
+import e9 from "./e9.webp";
 
 export const graphics = {
   banner,
@@ -26,6 +24,4 @@ export const graphics = {
   e7,
   e8,
   e9,
-  icon,
-  webDevIcon,
 };
